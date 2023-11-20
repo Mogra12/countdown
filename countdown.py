@@ -1,4 +1,3 @@
-from anyplayer import get_player
 import time
 import os
 
