@@ -12,4 +12,6 @@ def counter():
         time.sleep(1)
         os.system("cls")
     print("countdown was finished")
+
+
 counter()
